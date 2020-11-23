@@ -1,5 +1,4 @@
 # How did I learn C++
-## JBK02
 
 #### Story:
 
@@ -31,3 +30,6 @@
 
 ### Practice Challenges:
 - [Hacker Rank](https://www.hackerrank.com/domains/cpp)
+
+
+## JBK02
