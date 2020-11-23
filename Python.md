@@ -5,7 +5,7 @@
     - [Sololearn](https://www.sololearn.com/Course/Python/)
     <br>or
     - [Codecademy](https://www.codecademy.com/learn/learn-python-3)
-    <br>
+    
     - Cool sites that I knew after learning:
         - [Sendtex](https://www.youtube.com/c/sentdex/playlists)
         - [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
